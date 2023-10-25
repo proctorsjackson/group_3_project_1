@@ -161,3 +161,7 @@ cython_debug/
 
 # Gitignore api_key
 alpha_api_key.py
+
+#Gitignore .ds_store
+.ds_store
+csv_files/.ds_store
